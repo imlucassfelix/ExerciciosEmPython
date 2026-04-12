@@ -1,3 +1,4 @@
+#Exercicio para utilizar função raiz quadrada
 import math
 num=int(input('Digite um número'))
 raiz=math.sqrt(num)
