@@ -1,4 +1,3 @@
-#utilizi função para imprimir parte inteira de um numero 
 #utilizei função para imprimir parte inteira de um número 
 import math
 valor=float(input('Digite um valor:'))
