@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 pacote-dowload/Exercicios em python/s2.py
+.gitatributes
